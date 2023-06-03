@@ -40,3 +40,4 @@ Explore our impressive company portfolio, showcasing successful collaborations, 
 
 Meet our highly skilled and experienced team, who form the backbone of our organization. Our diverse group of professionals excels in areas such as finance, investment management, legal advisory, customer service, and more. Get to know our team members and their expertise, ensuring you have confidence in the quality of service we provide.
 
+Thank you for visiting our repository! If you have any questions or require further assistance, please don't hesitate to reach out to us. We are dedicated to helping you achieve your financial goals and supporting your business expansion efforts.
